@@ -1,0 +1,14 @@
+a {
+    color: inherit;
+    text-decoration: inherit;
+}
+
+.bg-menu{
+    background-color: #FFA07A;
+    border-top: 4px solid #E9967A;
+    border-bottom: 4px solid #E9967A;
+    border-radius: 0 0 15px 15px;
+}
+.b-r{
+    border-radius: 10px;
+}
